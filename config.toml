@@ -1,0 +1,6 @@
+baseURL = 'http://example.org/'
+languageCode = 'ja'
+publishDir = "docs"
+canonifyurls = true
+theme = 'holy'
+title = 'Phalacrocorax'
