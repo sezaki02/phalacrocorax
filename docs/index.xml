@@ -2,9 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Phalacrocorax</title>
-    <link>http://example.org/</link>
+    <link>https://sezaki02.github.io/phalacrocorax/</link>
     <description>Recent content on Phalacrocorax</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>ja</language>
+    <lastBuildDate>Thu, 18 May 2023 20:51:19 +0900</lastBuildDate><atom:link href="https://sezaki02.github.io/phalacrocorax/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>fights spam accounts</title>
+      <link>https://sezaki02.github.io/phalacrocorax/posts/my-first-post/</link>
+      <pubDate>Thu, 18 May 2023 20:51:19 +0900</pubDate>
+      
+      <guid>https://sezaki02.github.io/phalacrocorax/posts/my-first-post/</guid>
+      <description>Tumblrに生息するスパムアカウントの活動はいよいよ活発化しており、フォローでは飽き足らず「スキ！」を押して自らの存在をアピールすることを覚えたらしい。ウザいことこの上ない。丁重にブロックとスパム報告をさせて頂く。
+で、気を取り直してブラウザでダッシュボードをスクロールしていると、今度は突然成人向け（にしか見えない）コンテンツのポストが出現しブチ切れそうになる（#Photographyとかいうざっくりしたタグをフォローするのはやめた方がいいのかもしれないな）。
+私は心穏やかにこの近所の公民館的なインターネットであるところのTumblrを過ごしたいので、それが阻害されるや否や「もうやめてやるよ！」という勢いに支配される。紙の日記帳だったらビリビリに引き裂いていたかもしれないけれど、Tumblrの日記はデータなので、震えながら「アカウント削除」ボタンを押すくらいしかできないんだと思うとなんかみっともなくて辞めた。
+公民館は明日も行く。いいんだ。ここは家じゃない。</description>
+    </item>
+    
   </channel>
 </rss>

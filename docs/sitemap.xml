@@ -2,10 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://sezaki02.github.io/phalacrocorax/posts/my-first-post/</loc>
+    <lastmod>2023-05-18T20:51:19+09:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://sezaki02.github.io/phalacrocorax/</loc>
+    <lastmod>2023-05-18T20:51:19+09:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://sezaki02.github.io/phalacrocorax/posts/</loc>
+    <lastmod>2023-05-18T20:51:19+09:00</lastmod>
+  </url><url>
+    <loc>https://sezaki02.github.io/phalacrocorax/categories/</loc>
+  </url><url>
+    <loc>https://sezaki02.github.io/phalacrocorax/tags/</loc>
   </url>
 </urlset>
