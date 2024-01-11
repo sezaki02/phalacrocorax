@@ -4,3 +4,9 @@ publishDir = "docs"
 canonifyurls = true
 theme = 'holy'
 title = 'Phalacrocorax'
+
+[menu]
+ [[menu.main]]
+    name = "About"
+    pageRef = "/about"
+    weight = 10
